@@ -1,7 +1,7 @@
 Important Links:
-* MD file: https://github.com/shahedc/csharp-solutions/blob/gh-pages/index.md
-* Published URL: https://shahedc.github.io/csharp-solutions/
-* Guide: https://pages.github.com/
+* MD file: [https://github.com/shahedc/csharp-solutions/blob/gh-pages/index.md](https://github.com/shahedc/csharp-solutions/blob/gh-pages/index.md)
+* Published URL: [https://shahedc.github.io/csharp-solutions/](https://shahedc.github.io/csharp-solutions/)
+* Guide: [https://pages.github.com/](https://pages.github.com/)
 
 ## Welcome to GitHub Pages
 
